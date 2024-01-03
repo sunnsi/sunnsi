@@ -50,7 +50,7 @@ I am open to collaboration, feel free to contact me via Email
 
 <a href=#><img src="contributions.svg"></a>
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/Bin-Cao/count.svg" />
+  <img src="https://profile-counter.glitch.me/sunnsi/count.svg" />
   <br>
   Home Page Visitors （访问量）
   <br>
