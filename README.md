@@ -3,9 +3,8 @@
 # 力学（材料）信息学实验室 | 上海大学MGI  💻 
 : Materials and mechanics informatics lab (MMIL)
 
-to promote the unrestricted dissemination of knowledge and encourage transparent, and accessible researches
 
-促进知识的无壁垒传播和透明、可访问的研究
+
 
 ---
 
