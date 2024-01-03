@@ -25,8 +25,6 @@
 **计算电化学:**
 
 [![](https://img.shields.io/badge/TCLR-GitHub-green)](https://github.com/Bin-Cao/TCLRmodel)
-
-🤝🤝🤝 **Please star** ⭐️ **them for promoting open source projects** 🌍 **! Thanks !**
   
 
 ---
@@ -34,8 +32,6 @@
 **计算力学:**
 
 [![](https://img.shields.io/badge/TCLR-GitHub-green)](https://github.com/Bin-Cao/TCLRmodel)
-
-🤝🤝🤝 **Please star** ⭐️ **them for promoting open source projects** 🌍 **! Thanks !**
   
 
 ---
@@ -45,13 +41,11 @@
 
 [![](https://img.shields.io/badge/TCLR-GitHub-green)](https://github.com/Bin-Cao/TCLRmodel)
 
-🤝🤝🤝 **Please star** ⭐️ **them for promoting open source projects** 🌍 **! Thanks !**
-  
 ---
 
 ## Contact
 
-+ 📨 Email : bcao686@connect.hkust-gz.edu.cn
++ 📨 Email : mgissh@t.shu.edu.cn
 I am open to collaboration, feel free to contact me via Email
 
 
@@ -68,7 +62,7 @@ I am open to collaboration, feel free to contact me via Email
 
 
 
-📨 **私信公众号平台，备注开源库名称，可加入微信讨论群（回复可能会稍有延迟)  | 公众号 : SciMindBin （Send a message to the Wechat platform, note the name of the open source library, and you can join the discussion group (the reply may be slightly delayed) | Wechat platform NAME : SciMindBin )**
+📨 **私信公众号平台，备注开源库名称，可加入微信讨论群（回复可能会稍有延迟)  | 公众号 : XXX **
 
 
 ![WechatIMG954](https://github.com/Bin-Cao/Bin-Cao/assets/86995074/22c3d038-4b71-480d-9e73-b498bc39a8e8)
