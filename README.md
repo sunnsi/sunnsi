@@ -24,17 +24,19 @@
 ---
 **计算电化学:**
 
-[![](https://img.shields.io/badge/TCLR-GitHub-green)](https://github.com/Bin-Cao/TCLRmodel)
+[![](https://img.shields.io/badge/MLMD-GitHub-green)](https://github.com/Jiaxuan-Ma/MLMD)
+
   
 
 **计算力学:**
 
-[![](https://img.shields.io/badge/TCLR-GitHub-green)](https://github.com/Bin-Cao/TCLRmodel)
+[![](https://img.shields.io/badge/MLMD-GitHub-green)](https://github.com/Jiaxuan-Ma/MLMD)
   
 
 **机器学习材料设计:**
 
 [![](https://img.shields.io/badge/MLMD-GitHub-green)](https://github.com/Jiaxuan-Ma/MLMD)
+
 ---
 
 
