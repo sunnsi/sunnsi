@@ -41,33 +41,32 @@
 
    
 ---
-**Open source package:**
+**计算电化学:**
 
 [![](https://img.shields.io/badge/TCLR-GitHub-green)](https://github.com/Bin-Cao/TCLRmodel)
-[![](https://img.shields.io/badge/TCGPR-GitHub-green)](https://github.com/Bin-Cao/TCGPR)
-[![](https://img.shields.io/badge/Bgolearn-GitHub-green)](https://github.com/Bin-Cao/Bgolearn)
-[![](https://img.shields.io/badge/TrAdaBoost-GitHub-green)](https://github.com/Bin-Cao/TrAdaboost)
-[![](https://img.shields.io/badge/WPEM-GitHub-green)](https://github.com/Bin-Cao/WPEM)
+
+🤝🤝🤝 **Please star** ⭐️ **them for promoting open source projects** 🌍 **! Thanks !**
+  
+
+---
+---
+**计算力学:**
+
+[![](https://img.shields.io/badge/TCLR-GitHub-green)](https://github.com/Bin-Cao/TCLRmodel)
 
 🤝🤝🤝 **Please star** ⭐️ **them for promoting open source projects** 🌍 **! Thanks !**
   
 
 ---
 
-## Skills
-+ ML-based X-ray technology (XRD、XAFS、XPS) & Density Functional Theory
-+ Machine Learning ; Transfer/Graphs in Crystallography
+---
+**机器学习材料设计:**
 
-    *Member of Chinese Crystallographic Society* （CCrS)
-## Experience
-+ 👨‍🎓 2023.9-Present : Hong Kong University of Science and Technology(GZ）/ PHD student / Guangzhou, China
-+ 👨‍💻 2023.3-2023.8 : Zhejiang LAB / Intern / Hangzhou, China
-+ 👨‍🎓 2020.9-2023.6 : Shanghai University / Mphil (Outstdng Grad. ; National scholarship) / Shanghai, China
-+ 👨‍🎓 2016.9-2020.6 : Beijing University of Chemical Technology / Bachelor / Beijing, China
+[![](https://img.shields.io/badge/TCLR-GitHub-green)](https://github.com/Bin-Cao/TCLRmodel)
 
-## Languages
-+ Mandarin Chinese (Native Speaker)
-+ English (C2 level)
+🤝🤝🤝 **Please star** ⭐️ **them for promoting open source projects** 🌍 **! Thanks !**
+  
+---
 
 ## Contact
 
