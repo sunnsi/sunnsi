@@ -9,13 +9,13 @@
 ---
 
 <p align="left">
-<a href="https://github.com/Bin-Cao">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Bin+CAO+(曹斌);Researcher+%7C+PhD+Student+%7C+FocusOn+XRDdiffraction;AI+%7C+Materials+Informatics+%7C+Machine+Learning" alt="Typing SVG" />
+<a href="https://github.com/sunnsi">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Sheng+Sun+(孙升);Researcher+%7C+Porf+%7C+FocusOn+AI+%7C+Mechanics+Informatics+%7C;AI+%7C+Materials+Informatics+%7C+Machine+Learning" alt="Typing SVG" />
 </a>
 <br/>
  
-<a href="https://github.com/Bin-Cao">
-    <img src="https://github-stats-alpha.vercel.app/api?username=Bin-Cao&cc=22272e&tc=47BCF6&ic=fff&bc=1000">
+<a href="https://github.com/sunsi">
+    <img src="https://github-stats-alpha.vercel.app/api?username=sunnsi&cc=22272e&tc=47BCF6&ic=fff&bc=1000">
 </a>
 </p>
 
