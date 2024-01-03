@@ -14,7 +14,7 @@
 </a>
 <br/>
  
-<a href="https://github.com/sunsi">
+<a href="https://github.com/sunnsi">
     <img src="https://github-stats-alpha.vercel.app/api?username=sunnsi&cc=22272e&tc=47BCF6&ic=fff&bc=1000">
 </a>
 </p>
@@ -64,4 +64,4 @@ I am open to collaboration, feel free to contact me via Email
 📨 **私信公众号平台，备注开源库名称，可加入微信讨论群（回复可能会稍有延迟)  | 公众号 : XXX **
 
 
-![WechatIMG954](https://github.com/Bin-Cao/Bin-Cao/assets/86995074/22c3d038-4b71-480d-9e73-b498bc39a8e8)
+![WechatIMG954](https://github.com/sunnsi/sunnsi/assets/86995074/22c3d038-4b71-480d-9e73-b498bc39a8e8)
